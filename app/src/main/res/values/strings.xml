@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gather</string>
+    <string name="set_custom_url">设置自定义URL</string>
+    <string name="close">关闭</string>
+    <string name="http_prefix">http://</string>
+    <string name="finish">完成</string>
+    <string name="illegal_url">不合法的URL</string>
+    <string name="edit">编辑</string>
+    <string name="network_error">网络异常, 请检查您的网络后重试</string>
+    <string name="network_server_error">服务器异常</string>
+    <string name="network_other">数据异常</string>
+</resources>
