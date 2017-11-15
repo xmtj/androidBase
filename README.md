@@ -8,4 +8,4 @@
 - 配合jenkins可以很快完成自动化操作
 
 ## 使用
-- 如果是linux或者是mac os系统 直接运行根项目build.sh，windows系统请copy相关命令并且依次运行
+- 如果是linux或者是mac os系统 直接运行根项目[build.sh](https://github.com/xmtj/androidBase/blob/master/build.sh)，windows系统请copy相关命令并且依次运行
